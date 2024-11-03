@@ -1,3 +1,6 @@
+Here's a fresh, optimized version of your resume:
+
+---
 
 **Roopa Sundari**  
 Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
@@ -47,7 +50,9 @@ Mumbai, India
 ### **Education**
 
 **Andhra University**  
-Bachelor’s Degree in Computer Science  with CGPA 8.5/10
+Bachelor’s Degree in Computer Science  
 *2010 – 2014*
 
 ---
+
+This updated version showcases your technical expertise and experience, with a clear, professional layout. Let me know if you'd like any further adjustments!
