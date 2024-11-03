@@ -49,6 +49,6 @@ Mumbai, India
 **Andhra University**  
 Bachelor’s Degree in Computer Science  
 *2010 – 2014*
-
+CGPA: 8.5/10
 ---
 
