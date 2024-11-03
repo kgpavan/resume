@@ -1,6 +1,3 @@
-Here's a fresh, optimized version of your resume:
-
----
 
 **Roopa Sundari**  
 Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
