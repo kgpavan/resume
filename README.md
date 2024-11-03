@@ -1,4 +1,3 @@
-Here's a fresh, optimized version of your resume:
 
 ---
 
@@ -54,5 +53,3 @@ Bachelor’s Degree in Information Technology
 *2010 – 2014*
 
 ---
-
-This updated version showcases your technical expertise and experience, with a clear, professional layout. Let me know if you'd like any further adjustments!
