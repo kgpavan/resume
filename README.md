@@ -1,3 +1,4 @@
+
 **Roopa Sundari**  
 Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
 Barking, England, United Kingdom  
@@ -46,7 +47,7 @@ Mumbai, India
 ### **Education**
 
 **Andhra University**  
-Bachelor’s Degree in Computer Science  
+Bachelor’s Degree in Computer Science  with CGPA 8.5/10
 *2010 – 2014*
----
 
+---
