@@ -50,7 +50,7 @@ Mumbai, India
 ### **Education**
 
 **Andhra University**  
-Bachelor’s Degree in Computer Science  
+Bachelor’s Degree in Information Technology  
 *2010 – 2014*
 
 ---
