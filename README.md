@@ -1,14 +1,6 @@
 
 
 
-**Roopa Sundari**  
-Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
-Barking, England, United Kingdom  
-**Email:** sundarigv@gmail.com  
-**Phone:** +44 7517 983969  
-**LinkedIn:** [linkedin.com/in/roopa-sundari-940b3b83](https://www.linkedin.com/in/roopa-sundari-940b3b83)  
-
----
 
 ### **Professional Summary**
 Results-driven Full Stack Engineer with over 6 years of experience in designing, developing, and deploying robust applications in Agile environments. Known for expertise in Java, JavaScript, Liferay, and CI/CD processes, with a strong focus on process efficiency, technical excellence, and collaboration. Passionate about leveraging technology to deliver impactful solutions that support organizational goals and enhance user experiences.
@@ -46,10 +38,3 @@ Mumbai, India
 
 ---
 
-### **Education**
-
-**Andhra University**  
-Bachelor’s Degree in Information Technology  
-*2010 – 2014*
-
----
