@@ -2,7 +2,7 @@
 ---
 
 **Roopa Sundari**  
-Full Stack Engineer | Java, JavaScript, NodeJS, Liferay, Agile Methodologies  
+Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
 Barking, England, United Kingdom  
 **Email:** sundarigv@gmail.com  
 **Phone:** +44 7517 983969  
@@ -50,7 +50,7 @@ Mumbai, India
 ### **Education**
 
 **Andhra University**  
-Bachelor’s Degree in Information Technology
+Bachelor’s Degree in Information Technology  
 *2010 – 2014*
 
 ---
