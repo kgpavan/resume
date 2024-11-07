@@ -1,8 +1,8 @@
 
-
+---
 
 **Roopa Sundari**  
-Full Stack Engineer | Java, JavaScript, Liferay, Agile Methodologies  
+Full Stack Engineer | Java, JavaScript, NodeJS, Liferay, Agile Methodologies  
 Barking, England, United Kingdom  
 **Email:** sundarigv@gmail.com  
 **Phone:** +44 7517 983969  
@@ -11,11 +11,11 @@ Barking, England, United Kingdom
 ---
 
 ### **Professional Summary**
-Results-driven Full Stack Engineer with over 6 years of experience in designing, developing, and deploying robust applications in Agile environments. Known for expertise in Java, JavaScript, Liferay, and CI/CD processes, with a strong focus on process efficiency, technical excellence, and collaboration. Passionate about leveraging technology to deliver impactful solutions that support organizational goals and enhance user experiences.
+Results-driven Full Stack Engineer with over 6 years of experience in designing, developing, and deploying robust applications in Agile environments. Known for expertise in Java/J2EE, JavaScript, NodeJS, Liferay, and CI/CD processes, with a strong focus on process efficiency, technical excellence, and collaboration. Passionate about leveraging technology to deliver impactful solutions that support organizational goals and enhance user experiences.
 
 ### **Core Competencies**
-- **Programming & Development**: Java, JavaScript, SQL (MySQL), C++
-- **Frameworks & Tools**: Liferay, Struts, Spring, Hibernate
+- **Programming & Development**: Java/J2EE, JavaScript, NodeJS,SQL (MySQL), C++
+- **Frameworks & Tools**: Liferay, Spring, Git, Selenium, Eclipse
 - **DevOps & CI/CD**: Docker, Jenkins, API Integration, End-to-End Automation Testing
 - **Methodologies**: Agile (Scrum), Unix Systems
 - **Soft Skills**: Team Collaboration, Problem Solving, Analytical Thinking, Attention to Detail
@@ -30,7 +30,8 @@ Results-driven Full Stack Engineer with over 6 years of experience in designing,
 London, Greater London, United Kingdom  
 
 - Developed and maintained core applications for Camden Council, improving processes for residents and internal users through a user-centered approach.
-- Collaborated within an Agile Scrum team to ensure consistent, high-quality deployments through CI/CD pipelines and automated testing.
+- Utilized expertise in server-side JavaScript using Node.js to build responsive and robust application backends.
+- Collaborated within an Agile Scrum team to ensure consistent, high-quality deployments through CI/CD pipelines and automated testing. Collaborated with cross-functional teams to design, deploy, and managed application architectures tailored to client needs.
 - Built and optimized APIs to streamline integrations across systems, supporting complex workflows and enhancing functionality.
 - Conducted rigorous end-to-end testing using automation, increasing software reliability and deployment speed.
 - Leveraged Docker for containerized deployments, simplifying the deployment and maintenance of applications.
@@ -49,7 +50,7 @@ Mumbai, India
 ### **Education**
 
 **Andhra University**  
-Bachelor’s Degree in Information Technology  
+Bachelor’s Degree in Information Technology
 *2010 – 2014*
 
 ---
